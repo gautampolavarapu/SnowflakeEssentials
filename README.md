@@ -1,0 +1,2 @@
+# SnowflakeEssentials
+Snowflake Essentials Badges
